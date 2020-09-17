@@ -1,6 +1,6 @@
 # André Luiz Alvares
 ## Games
-* [Lunar Lander clone](https://github.com/nicolas-ft/LunarLander): Lunar Lander clone, developed using Unity.
+* [Lunar Lander](https://github.com/nicolas-ft/LunarLander): Lunar Lander clone, developed using Unity.
 * [Castle Escape](https://github.com/Andre-LA/baixada-game-jam-game): Castle Escape, developed using Raylib, Nelua and some libraries.
 * [Nhom Nhom](https://github.com/unimonte-games/nhom-nhom): Developed using Unity.
 * [Festa dos Duendes](https://github.com/unimonte-games/festa-dos-duendes): Developed using Unity.
