@@ -13,3 +13,4 @@
 * [NProf](https://github.com/Andre-LA/nprof): basic Raylib profiler in Nelua, useful to discover what block of code is consuming more time to run.
 * [LPages](https://github.com/Andre-LA/lpages): _(WIP)_ Lua HTML generator using tables, which will be "rendered" as a final HTML page.
 * [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua): personal entity-component-system library for Nelua.
+* [Rotor-quick](https://github.com/andre-la/rotor-quick): (WIP) personal collection of components and systems for Rotor-nelua.
