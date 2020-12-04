@@ -1,11 +1,11 @@
 # André Luiz Alvares
 ## Games
 * [Lunar Lander](https://github.com/nicolas-ft/LunarLander): Lunar Lander clone, developed using Unity.
-* [Castle Escape](https://github.com/Andre-LA/baixada-game-jam-game): developed using Raylib, Nelua and some libraries.
-* [Nhom Nhom](https://github.com/unimonte-games/nhom-nhom): developed using Unity.
+* [Castle Escape](https://github.com/Andre-LA/baixada-game-jam-game): developed using Raylib, Nelua and some libraries [(website)](https://andre-la.github.io/baixada-game-jam-game/index.html).
+* [Nhom Nhom](https://github.com/unimonte-games/nhom-nhom): developed using Unity [(website)](https://andre-la.itch.io/nhom-nhom).
 * [Festa dos Duendes](https://github.com/unimonte-games/festa-dos-duendes): Developed using Unity.
 * [Aurora](https://github.com/unimonte-games/game-jam-proj-grupo-5): Developed using Unity.
-* [Space Pigs Revolution](https://github.com/unimonte-games/space-pigs-revolution): Developed using Unity.
+* [Space Pigs Revolution](https://github.com/unimonte-games/space-pigs-revolution): Developed using Unity [(website)](https://unimonte-games.github.io/space-pigs-revolution/index.html).
 * [Akangatu (digital version)](https://github.com/unimonte-games/jogo-akangatu-digital): Developed using Unity.
 
 ## Libraries
