@@ -11,8 +11,6 @@
 ## Libraries
 * [Raylib-nelua](https://github.com/Andre-LA/raylib-nelua-mirror): Raylib binding and wrapper for Nelua language, uses LPEG C parser to generate bindings automatically, wrapping is also automated.
 * [NProf](https://github.com/Andre-LA/nprof): basic Raylib profiler in Nelua, useful to discover what block of code is consuming more time to run.
-* [LPages](https://github.com/Andre-LA/lpages): _(Paused)_ Lua HTML generator using tables, which will be "rendered" as a final HTML page.
-* [Rotor-nelua](https://github.com/Andre-LA/Rotor-nelua): personal entity-component-system library for Nelua.
+* [Rotor-nelua](https://gitlab.com/Andre-LA/rotor-nelua): personal entity-component-system library for Nelua.
 * [Rotor-quick](https://github.com/andre-la/rotor-quick): (WIP) personal collection of components and systems for Rotor-nelua.
-* [tico-nelua](https://github.com/Andre-LA/tico-nelua): Tinycoffee binding and wrapper to nelua language, done with nelua-decl.
-* [nene](https://github.com/Andre-LA/nene) (WIP) simple game development library to make simple 2D games.
+* [nene](https://github.com/Andre-LA/nene) (WIP) simple game development library to make simple 2D games
