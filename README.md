@@ -14,5 +14,5 @@
 * [Raylib-nelua](https://github.com/Andre-LA/raylib-nelua-mirror): Raylib binding and wrapper for Nelua language, uses LPEG C parser to generate bindings automatically, wrapping is also automated.
 * [NProf](https://github.com/Andre-LA/nprof): basic Raylib profiler in Nelua, useful to discover what block of code is consuming more time to run.
 * [Rotor-nelua](https://gitlab.com/Andre-LA/rotor-nelua): personal entity-component-system library for Nelua.
-* [Rotor-quick](https://github.com/andre-la/rotor-quick): (WIP) personal collection of components and systems for Rotor-nelua.
 * [nene](https://github.com/Andre-LA/nene) (WIP) simple game development library to make simple 2D games
+* [irene](https://github.com/andre-la/irene): (WIP) personal game engine made in top of nene and Rotor-nelua.
