@@ -42,7 +42,7 @@
     <td><a href="https://github.com/Andre-LA/baixada-game-jam-game">Castle Escape</a></td>
     <td>Help the princess to escape from castle</td>
     <td><a href="https://nelua.io/">Nelua</a><br><a href="https://www.raylib.com/">Raylib</a></td>
-    <td><a href="https://andre-la.github.io/baixada-game-jam-game/index.html">Play</a></td>
+    <td><a href="https://andre-la.github.io/baixada-game-jam-game/index.html">Play</a><br><a href="https://itch.io/jam/baixada-gamejam">Baixada Game Jam</a></td>
   </tr>
 
   <tr>
