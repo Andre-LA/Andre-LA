@@ -1,5 +1,6 @@
-# André Luiz Alvares
-## Games
+<h1 align="center">André Luiz Alvares</h1>
+
+<h2 align="center">Games</h2>
 
 | Name and Source code | Description | Tech | Links |
 |---|---|---|---|
@@ -15,7 +16,8 @@
 | [Space Pigs Revolution](https://github.com/unimonte-games/space-pigs-revolution)| Shoot'em up game | [[Unity](https://unity.com/)] | [[play](https://unimonte-games.github.io/space-pigs-revolution/index.html)] |
 | [Akangatu (digital version)](https://github.com/unimonte-games/jogo-akangatu-digital)| Memory game | [[Unity](https://unity.com/)] | -- |
 
-## Libraries
+
+<h2 align="center">Libraries</h2>
 
 | Name and Source code | Description | Status |
 |---|---|---|
