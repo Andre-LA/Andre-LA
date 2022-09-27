@@ -1,5 +1,6 @@
 <h1 align="center">André Luiz Alvares</h1>
 <p align="center">Game developer<br>from Brazil.</p>
+<p align="center"><a href="https://andre-la.github.io/">[website]</a></p>
 
 ## Games
 <table>
@@ -7,7 +8,7 @@
     <th>Name and Source code</th>
     <th>Description</th>
     <th>Tech</th>
-    <th>Links and Jams</th>
+    <th>Links</th>
   </tr>
 
   <tr>
