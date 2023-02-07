@@ -22,7 +22,14 @@
     <td><a href="https://github.com/Andre-LA/GGJ-BaixadaSantista-2021">On Rails</a>
     <td>Be lost on subways, guided by your grandma's messages on your smartphone</td>
     <td><a href="https://unity.com/">Unity</a></td>
-    <td><a href="https://globalgamejam.org/2021/games/rails-1">Download</a><br><a href="https://youtu.be/rV-rSyMBgLQ">Video</a><br><a href="https://globalgamejam.org/2021/jam-sites/ggj-baixada-santista-usjtunimonte">GGJ-2021 Jam</a></td>
+    <td><a href="https://globalgamejam.org/2021/games/rails-1">Download</a><br><a href="https://youtu.be/rV-rSyMBgLQ">Video</a><br><a href="https://globalgamejam.org/2021/jam-sites/ggj-baixada-santista-usjtunimonte">GGJ 2021 Jam</a></td>
+  </tr>
+    
+  <tr>
+    <td><a href="https://github.com/danilobezerra/tapioca-hunter">Tapioca Hunter</a>
+    <td>Hunt for tapiocas, but beware! There are ghosts around!</td>
+    <td><a href="https://github.com/Stephane-D/SGDK/">SGDK</a></td>
+    <td><a href="https://danilobezerra.itch.io/tapioca-hunter">Download (ROM)</a><br><a href="https://globalgamejam.org/2023/jam-sites/etec-arist%C3%B3teles-ferreira">GGJ 2023 Jam</a></td>
   </tr>
     
   <tr>
@@ -36,7 +43,7 @@
     <td><a href="https://github.com/Andre-LA/totally-not-sumo">Totally not Sumo</a></td>
     <td>Push your opponents out, while dealing with an controller duality</td>
     <td><a href="https://nelua.io/">Nelua</a><br><a href="https://wasm4.org/">WASM-4</a></td>
-    <td><a href="https://origamisword.itch.io/totally-not-sumo">Play</a><br><a href="https://globalgamejam.org/2022/jam-sites/global-game-jam-2022-%E2%80%93-baixada-santista-unisantos">GGJ-2022 Jam</a></td>
+    <td><a href="https://origamisword.itch.io/totally-not-sumo">Play</a><br><a href="https://globalgamejam.org/2022/jam-sites/global-game-jam-2022-%E2%80%93-baixada-santista-unisantos">GGJ 2022 Jam</a></td>
   </tr>
     
   <tr>
