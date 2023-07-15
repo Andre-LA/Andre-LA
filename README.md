@@ -1,6 +1,6 @@
 <h1 align="center">André Luiz Alvares</h1>
 <p align="center">Game developer<br>from Brazil.</p>
-<p align="center"><a href="https://andre-la.github.io/">[website]</a></p>
+<p align="center"><a href="https://andre-la.codeberg.page/">[website]</a></p>
 
 ## Games
 <table>
