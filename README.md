@@ -2,6 +2,8 @@
 <p align="center">Game developer<br>from Brazil.</p>
 <p align="center"><a href="https://andre-la.codeberg.page/">[website]</a></p>
 
+> Note: I'm migrating to other platforms, like CodeBerg.
+
 ## Games
 <table>
   <tr>
