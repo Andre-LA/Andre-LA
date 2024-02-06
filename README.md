@@ -99,7 +99,7 @@
 
 | Name and Source code | Description | Status |
 |---|---|---|
-| [Nene](https://github.com/Andre-LA/nene) | Game development library for simple 2D games. | Active |
+| [Nene](https://codeberg.org/Nene/nene) | Game development library for simple 2D games. | Active |
 | [Rotor](https://github.com/Andre-LA/rotor-nelua) | Entity-component-system library for Nelua, focused in simplicity. | Active |
 | [Irene](https://github.com/andre-la/irene) | Personal game engine made in top of nene and rotor. | Active |
 | [NProf](https://github.com/Andre-LA/nprof) | Basic Raylib profiler in Nelua, useful to discover what block of code is consuming more time to run. | Paused |
