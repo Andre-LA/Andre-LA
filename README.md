@@ -14,6 +14,13 @@
   </tr>
 
   <tr>
+    <td>HomeNaut</td>
+    <td>Help the explorer mouse HomeNaut on his journey to reach the legendary cheese in this gravity platform puzzler</td>
+    <td><a href="https://codeberg.org/Nene/nene">Nene</a>  with <a href="https://nelua.io/">Nelua</a></td>
+    <td><a href="https://store.steampowered.com/app/2784640/HomeNaut/">Steam</a></td>
+  </tr>
+
+  <tr>
     <td>Octo Gravity</td>
     <td>Jump and run in an octagon full of obstacles and overcome your own records</td>
     <td><a href="https://unity.com/">Unity</a></td>
